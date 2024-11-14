@@ -36,30 +36,31 @@ The system uses classes and dataclasses for clean organization:
 I've enhanced the system with several new features:
 
 User Authentication & Authorization:
-    * User roles (Admin, Manager, Staff)
-    * Permission-based access control
-    * Secure password hashing
-    * Login/logout functionality
+ * User roles (Admin, Manager, Staff)
+ * Permission-based access control
+ * Secure password hashing
+* Login/logout functionality
     
 Advanced Pricing Rules:
-    * Abstract discount rule system
-    * Percentage-based discounts
-    * Bulk purchase discounts
-    * Flexible rule combinations
+* Abstract discount rule system
+* Percentage-based discounts
+* Bulk purchase discounts
+* Flexible rule combinations
     
 Enhanced Reporting:
-    * Product performance analysis
-    * Customer purchase analysis
-    * Stock level warnings
-    * Revenue tracking
+* Product performance analysis
+* Customer purchase analysis
+* Stock level warnings
+* Revenue tracking
     
 Data Export Capabilities:
-    * CSV export for tabular data
-    * PDF report generation
-    * Multiple report formats
-    * Professional formatting
+* CSV export for tabular data
+* PDF report generation
+* Multiple report formats
+* Professional formatting
     
 New Reports:
+
 * Product Performance Report
     * Units sold per product
     * Revenue per product
