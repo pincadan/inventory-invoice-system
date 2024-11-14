@@ -40,30 +40,36 @@ User Authentication & Authorization:
     * Permission-based access control
     * Secure password hashing
     * Login/logout functionality
+    
 Advanced Pricing Rules:
     * Abstract discount rule system
     * Percentage-based discounts
     * Bulk purchase discounts
     * Flexible rule combinations
+    
 Enhanced Reporting:
     * Product performance analysis
     * Customer purchase analysis
     * Stock level warnings
     * Revenue tracking
+    
 Data Export Capabilities:
     * CSV export for tabular data
     * PDF report generation
     * Multiple report formats
     * Professional formatting
+    
 New Reports:
 * Product Performance Report
     * Units sold per product
     * Revenue per product
     * Stock warnings
+      
 * Customer Analysis Report
     * Total spend per customer
     * Average order value
     * Purchase frequency
+ 
 Security Improvements:
 * Password hashing
 * Role-based access control
